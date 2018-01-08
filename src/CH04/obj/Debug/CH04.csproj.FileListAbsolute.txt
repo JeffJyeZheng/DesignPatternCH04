@@ -1,0 +1,7 @@
+D:\senao\oop 教育訓練\CH04\CH04\bin\Debug\CH04.exe.config
+D:\senao\oop 教育訓練\CH04\CH04\bin\Debug\CH04.exe
+D:\senao\oop 教育訓練\CH04\CH04\bin\Debug\CH04.pdb
+D:\senao\oop 教育訓練\CH04\CH04\obj\Debug\CH04.csprojResolveAssemblyReference.cache
+D:\senao\oop 教育訓練\CH04\CH04\obj\Debug\CH04.csproj.CoreCompileInputs.cache
+D:\senao\oop 教育訓練\CH04\CH04\obj\Debug\CH04.exe
+D:\senao\oop 教育訓練\CH04\CH04\obj\Debug\CH04.pdb

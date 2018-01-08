@@ -1,0 +1,34 @@
+@startuml
+class Main{
+}
+
+class Director{
+    +construct()
+}
+
+interface ComputerBuilder{
+    +SetBox()
+    +SetKeyboard()
+    +SetMonitor()
+    +getResult()
+}
+
+class BuildApply {
+    +SetBox()
+    +SetKeyboard()
+    +SetMonitor()
+    +getResult()
+}
+
+class BuildISUS {
+    +SetBox()
+    +SetKeyboard()
+    +SetMonitor()
+    +getResult()
+}
+
+Main -right-> Director
+Director o-right- ComputerBuilder
+ComputerBuilder <|-down- BuildApply
+ComputerBuilder <|-down- BuildISUS
+@enduml
